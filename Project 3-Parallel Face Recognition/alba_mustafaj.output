@@ -1,0 +1,6 @@
+**************************************16 threads k =1********
+1.2.txt 1  1
+2.2.txt 2  2
+Accuracy: 2 correct answers for 2 tests
+Sequential time: 2749 ms
+Parallel time: 35.1384 ms
